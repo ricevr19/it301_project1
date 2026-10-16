@@ -1,0 +1,69 @@
+/*
+Ideal color scheme: (From primary to lesser of importance)
+For Primary: #347928
+For Secondary: #C0EBA6
+PAge Background: FFFBE6
+Accent: FCCD2A
+
+Text color:
+For Primary: #1B3815
+For secondary: #347928
+White: #FFFFFF
+*/
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #C0EBA6;
+    color: #1B3815;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    background-position: center;
+    text-align: center;
+}
+
+nav{
+    background-color: #347928;
+}
+
+nav a {
+    color: #FFFBE6;
+    text-decoration: none;
+}
+
+nav ul  {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+article {
+    background-color: #347928;
+    border: 1px solid #FFFBE6;
+    color: #C0EBA6;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+article h2 a {
+    color: #C0EBA6;
+    text-decoration: none;
+}
+
+article address {
+    color: #C0EBA6;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#phone {
+    text-decoration: none;
+}
