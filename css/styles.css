@@ -93,3 +93,16 @@ article address {
     flex-grow: 1;
     max-width: 100%;
 }
+
+/* Responsive query for smaller screens */
+
+@media (max-width: 600px){
+    article address{
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    nav ul{
+        gap: 10px;
+    }
+}
