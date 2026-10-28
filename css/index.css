@@ -1,9 +1,7 @@
 header {
     background-image: url("../images/Index.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 200px;
+    background-size: 100%;
+    min-height: 500px;
     padding: 100px;
-    display: flex;
-    flex-wrap: wrap;
 }
