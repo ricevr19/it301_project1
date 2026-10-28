@@ -1,0 +1,7 @@
+header {
+    background-image: url("images/Cafe.png");
+    background-repeat: no-repeat;
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
