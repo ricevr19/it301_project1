@@ -1,7 +1,8 @@
 header {
     background-image: url("images/Index.png");
     background-repeat: no-repeat;
-    padding: 100px;
-    display: flex;
-    flex-wrap: wrap;
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    text-align: center
 }
