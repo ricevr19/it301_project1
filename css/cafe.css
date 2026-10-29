@@ -1,7 +1,7 @@
 header {
-    background-image: url("images/Cafe-removebg-preview.png");
+    background-image: url("../images/Cafe-removebg-preview.png");
     background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 500px;
     padding: 100px;
-    display: flex;
-    flex-wrap: wrap;
 }
